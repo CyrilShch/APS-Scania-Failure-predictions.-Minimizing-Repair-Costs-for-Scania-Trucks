@@ -1,5 +1,7 @@
 # APS-Scania-Failure-predictions.-Minimizing-Repair-Costs-for-Scania-Trucks
 
+**Short description of project life cycle and results at each stage of model development**
+
 **Problem** 
 
 ≈ $347500
